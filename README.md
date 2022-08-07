@@ -6,5 +6,7 @@ Link to HAM10000 hmnist_28_28_rgb.csv - https://drive.google.com/file/d/1gMOStUt
 
 1. Download all the files and also dataset
 2. Change location of the dataset and machine learning model used in the webApp.py
+3. Install Streamlit in terminal from pip install streamlit.
+4. Open the terminal and write streamlit run webApp.py.
 
 
